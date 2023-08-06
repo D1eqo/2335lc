@@ -1,7 +1,9 @@
 LC2335Minimum Amount of Time to Fill Cups
+
 Diego Aquino Montero, turma M1
 
 1- lc2335aula.c é o código feito em aula mais a função main () (Esta versão do código não retorna o valor esperado para solucionar o problema)
+
 2- lccasa2335.c é o código final feito em casa
 
 Descrição do LeetCode: You have a water dispenser that can dispense cold, warm, and hot water. Every second, you can either fill up 2 cups with different types of water, or 1 cup of any type of water.
